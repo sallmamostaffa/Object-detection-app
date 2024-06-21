@@ -29,8 +29,8 @@ streamlit run app.py
 
 ## Screenshots
 
-![Uploaded Image](screenshots/uploaded_image.png)
-![Processed Image](screenshots/processed_image.png)
+![Example Image](https://raw.githubusercontent.com/sallmamostaffa/image-detection-app/main/Develop%20AIpowered%20he%20(1).jpg)
+![Processed Image](https://raw.githubusercontent.com/sallmamostaffa/image-detection-app/main/Screenshot%202024-06-21%20163223.png)
 
 ## Contributing
 
