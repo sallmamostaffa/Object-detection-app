@@ -8,7 +8,7 @@ An application for detecting objects in images using TensorFlow and Streamlit.
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
